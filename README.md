@@ -25,3 +25,7 @@ Economic-damage-from-natural-disaster : Financial Impact of Natural Disasters fr
 Natural-disaster-values: Human Loss in the Face of Natural Disasters.
 
 Billion Dollar Weather : Duration of each disaster  report.
+
+
+
+
