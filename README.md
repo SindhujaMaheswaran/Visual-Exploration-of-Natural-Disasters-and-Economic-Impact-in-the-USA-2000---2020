@@ -26,6 +26,8 @@ Natural-disaster-values: Human Loss in the Face of Natural Disasters.
 
 Billion Dollar Weather : Duration of each disaster  report.
 
+![image alt]https://github.com/SindhujaMaheswaran/Visual-Exploration-of-Natural-Disasters-and-Economic-Impact-in-the-USA-2000---2020/blob/fdfd918b352585d21b32eac31bc91153d0b0ac2d/Screenshot%202024-10-10%20190835.png
+
 
 
 
